@@ -1,0 +1,9 @@
+# *
+User-agent: *
+Allow: /
+
+# Host
+Host: https://foffyfoffy.com
+
+# Sitemaps
+Sitemap: https://foffyfoffy.com/sitemap.xml
